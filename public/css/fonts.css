@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'ifood';
+    src: url('../assets/fonts/ee826c832bffe352-s.p.otf');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'ifood';
+    src: url('../assets/fonts/381d4e2515cc49f0-s.p.otf');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'ifood';
+    src: url('../assets/fonts/b642f206b45f6b28-s.p.otf');
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'ifood';
+    src: url('../assets/fonts/bdf99ee6a558a558-s.p.otf');
+    font-weight: 500;
+}
